@@ -52,7 +52,7 @@ public class MobileContact {
 
 
 
-    // CRUD API
+    // CRUD API create - read - update - delete
 
     public boolean insertContact() {
         if (isFull()) {

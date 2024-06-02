@@ -16,6 +16,7 @@ public class UserMain {
         user.setPassword("12345");
         user.setActive(true);
 
+
         System.out.println("User id: " + user.getId());
         System.out.println("User Firstname: " + user.getFirstname());
         System.out.println("User Lastname: " + user.getLastname());
